@@ -19,7 +19,7 @@ A classic bouncing ball game where you control a paddle to keep the ball in play
 ![Python](https://img.shields.io/badge/python-3.8+-blue?logo=python)
 ![Pygame](https://img.shields.io/badge/pygame-2.0+-green?logo=pygame)
 
-A faithful recreation of the classic Snake game built with Python and Pygame. Control your snake to eat food and grow longer while avoiding collisions with yourself!
+A recreation of the classic Snake game built with Python and Pygame. Control your snake to eat food and grow longer while avoiding collisions with yourself!
 
 ![Game Screenshot](./Snake_By_Pygame/assets/Screenshot%202025-05-06%20191853.png)
 
